@@ -1,6 +1,6 @@
 # [SurvivalGame]
 
-Jeu de survie multijoueur développé sous Unreal Engine 5.
+Jeu de survie multijoueur développé sous Unreal Engine 5 (Full BluePrint).
 
 Suivi quotidien du développement sur TikTok : [@monjeuinde](https://www.tiktok.com/@monjeuinde)
 

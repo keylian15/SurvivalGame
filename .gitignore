@@ -49,6 +49,13 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
+# Exceptions : plugins livres en binaire uniquement (pas de source a
+# recompiler), donc leurs DLL/Binaries doivent rester versionnees
+# sinon le plugin casse apres un clone.
+!Code/Plugins/AdvancedSessions/AdvancedSessions/Binaries/
+!Code/Plugins/AdvancedSessions/AdvancedSessions/Binaries/**
+!Code/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/
+!Code/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/**
 # Builds
 Build/*
 

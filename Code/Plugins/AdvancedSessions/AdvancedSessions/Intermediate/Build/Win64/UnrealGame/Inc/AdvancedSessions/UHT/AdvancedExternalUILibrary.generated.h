@@ -21,7 +21,7 @@ enum class EBlueprintResultSwitch : uint8;
 struct FBPUniqueNetId;
 
 // ********** Begin Class UAdvancedExternalUILibrary ***********************************************
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execShowAccountUpgradeUI); \
 	DECLARE_FUNCTION(execShowProfileUI); \
 	DECLARE_FUNCTION(execCloseWebURLUI); \
@@ -34,7 +34,7 @@ struct FBPUniqueNetId;
 struct Z_Construct_UClass_UAdvancedExternalUILibrary_Statics;
 ADVANCEDSESSIONS_API UClass* Z_Construct_UClass_UAdvancedExternalUILibrary_NoRegister();
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS_NO_PURE_DECLS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAdvancedExternalUILibrary(); \
 	friend struct ::Z_Construct_UClass_UAdvancedExternalUILibrary_Statics; \
@@ -45,7 +45,7 @@ public: \
 	DECLARE_SERIALIZER(UAdvancedExternalUILibrary)
 
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ENHANCED_CONSTRUCTORS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAdvancedExternalUILibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -57,13 +57,13 @@ public: \
 	NO_API virtual ~UAdvancedExternalUILibrary();
 
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_26_PROLOG
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_26_PROLOG
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS_NO_PURE_DECLS \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ENHANCED_CONSTRUCTORS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS_NO_PURE_DECLS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -73,6 +73,6 @@ class UAdvancedExternalUILibrary;
 // ********** End Class UAdvancedExternalUILibrary *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h
+#define CURRENT_FILE_ID FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

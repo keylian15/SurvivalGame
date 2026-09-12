@@ -22,7 +22,7 @@ struct FBPUniqueNetId;
 
 // ********** Begin ScriptStruct FBPSteamGroupOfficer **********************************************
 struct Z_Construct_UScriptStruct_FBPSteamGroupOfficer_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_51_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_51_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPSteamGroupOfficer_Statics; \
 	ADVANCEDSTEAMSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -31,21 +31,21 @@ struct FBPSteamGroupOfficer;
 // ********** End ScriptStruct FBPSteamGroupOfficer ************************************************
 
 // ********** Begin Delegate FBlueprintGroupOfficerDetailsDelegate *********************************
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_63_DELEGATE \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_63_DELEGATE \
 ADVANCEDSTEAMSESSIONS_API void FBlueprintGroupOfficerDetailsDelegate_DelegateWrapper(const FMulticastScriptDelegate& BlueprintGroupOfficerDetailsDelegate, TArray<FBPSteamGroupOfficer> const& OfficerList);
 
 
 // ********** End Delegate FBlueprintGroupOfficerDetailsDelegate ***********************************
 
 // ********** Begin Class USteamRequestGroupOfficersCallbackProxy **********************************
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_RPC_WRAPPERS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_RPC_WRAPPERS \
 	DECLARE_FUNCTION(execGetSteamGroupOfficerList);
 
 
 struct Z_Construct_UClass_USteamRequestGroupOfficersCallbackProxy_Statics;
 ADVANCEDSTEAMSESSIONS_API UClass* Z_Construct_UClass_USteamRequestGroupOfficersCallbackProxy_NoRegister();
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_INCLASS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_INCLASS \
 private: \
 	static void StaticRegisterNativesUSteamRequestGroupOfficersCallbackProxy(); \
 	friend struct ::Z_Construct_UClass_USteamRequestGroupOfficersCallbackProxy_Statics; \
@@ -56,7 +56,7 @@ public: \
 	DECLARE_SERIALIZER(USteamRequestGroupOfficersCallbackProxy)
 
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_STANDARD_CONSTRUCTORS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	ADVANCEDSTEAMSESSIONS_API USteamRequestGroupOfficersCallbackProxy(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USteamRequestGroupOfficersCallbackProxy) \
@@ -67,13 +67,13 @@ public: \
 	USteamRequestGroupOfficersCallbackProxy(const USteamRequestGroupOfficersCallbackProxy&) = delete;
 
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_65_PROLOG
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_GENERATED_BODY_LEGACY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_65_PROLOG
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_RPC_WRAPPERS \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_INCLASS \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_STANDARD_CONSTRUCTORS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_RPC_WRAPPERS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_INCLASS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h_68_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -83,6 +83,6 @@ class USteamRequestGroupOfficersCallbackProxy;
 // ********** End Class USteamRequestGroupOfficersCallbackProxy ************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h
+#define CURRENT_FILE_ID FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_SteamRequestGroupOfficersCallbackProxy_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

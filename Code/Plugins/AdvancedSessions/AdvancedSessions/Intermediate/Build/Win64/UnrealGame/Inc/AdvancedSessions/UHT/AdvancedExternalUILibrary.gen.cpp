@@ -705,15 +705,15 @@ UAdvancedExternalUILibrary::~UAdvancedExternalUILibrary() {}
 // ********** End Class UAdvancedExternalUILibrary *************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_Statics
+struct Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UAdvancedExternalUILibrary, UAdvancedExternalUILibrary::StaticClass, TEXT("UAdvancedExternalUILibrary"), &Z_Registration_Info_UClass_UAdvancedExternalUILibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAdvancedExternalUILibrary), 3851074795U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_4123107872{
+}; // Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_4123107872{
 	TEXT("/Script/AdvancedSessions"),
-	Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h__Script_AdvancedSessions_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

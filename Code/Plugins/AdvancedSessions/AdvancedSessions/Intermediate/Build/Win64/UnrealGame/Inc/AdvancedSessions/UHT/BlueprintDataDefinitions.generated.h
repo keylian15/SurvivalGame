@@ -18,7 +18,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FBPUserOnlineAccount **********************************************
 struct Z_Construct_UScriptStruct_FBPUserOnlineAccount_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_48_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_48_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPUserOnlineAccount_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -28,7 +28,7 @@ struct FBPUserOnlineAccount;
 
 // ********** Begin ScriptStruct FBPUniqueNetId ****************************************************
 struct Z_Construct_UScriptStruct_FBPUniqueNetId_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_150_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_150_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPUniqueNetId_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -38,7 +38,7 @@ struct FBPUniqueNetId;
 
 // ********** Begin ScriptStruct FBPOnlineUser *****************************************************
 struct Z_Construct_UScriptStruct_FBPOnlineUser_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_224_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_224_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPOnlineUser_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -48,7 +48,7 @@ struct FBPOnlineUser;
 
 // ********** Begin ScriptStruct FBPOnlineRecentPlayer *********************************************
 struct Z_Construct_UScriptStruct_FBPOnlineRecentPlayer_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_238_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_238_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPOnlineRecentPlayer_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FBPOnlineUser Super;
@@ -59,7 +59,7 @@ struct FBPOnlineRecentPlayer;
 
 // ********** Begin ScriptStruct FBPFriendPresenceInfo *********************************************
 struct Z_Construct_UScriptStruct_FBPFriendPresenceInfo_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_249_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_249_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPFriendPresenceInfo_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -69,7 +69,7 @@ struct FBPFriendPresenceInfo;
 
 // ********** Begin ScriptStruct FBPFriendInfo *****************************************************
 struct Z_Construct_UScriptStruct_FBPFriendInfo_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_282_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_282_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPFriendInfo_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -79,7 +79,7 @@ struct FBPFriendInfo;
 
 // ********** Begin ScriptStruct FSessionPropertyKeyPair *******************************************
 struct Z_Construct_UScriptStruct_FSessionPropertyKeyPair_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_325_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_325_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FSessionPropertyKeyPair_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -89,7 +89,7 @@ struct FSessionPropertyKeyPair;
 
 // ********** Begin ScriptStruct FSessionsSearchSetting ********************************************
 struct Z_Construct_UScriptStruct_FSessionsSearchSetting_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_336_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_336_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FSessionsSearchSetting_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -98,7 +98,7 @@ struct FSessionsSearchSetting;
 // ********** End ScriptStruct FSessionsSearchSetting **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h
+#define CURRENT_FILE_ID FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h
 
 // ********** Begin Enum EBPUserPrivileges *********************************************************
 #define FOREACH_ENUM_EBPUSERPRIVILEGES(op) \

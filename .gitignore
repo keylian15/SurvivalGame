@@ -79,3 +79,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 Code/DerivedDataCache/*
+Code/Binaries/**
+Code/Build/**

@@ -1232,7 +1232,7 @@ UScriptStruct* Z_Construct_UScriptStruct_FSessionsSearchSetting()
 // ********** End ScriptStruct FSessionsSearchSetting **********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics
+struct Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ EBPUserPrivileges_StaticEnum, TEXT("EBPUserPrivileges"), &Z_Registration_Info_UEnum_EBPUserPrivileges, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 573377814U) },
@@ -1255,12 +1255,12 @@ struct Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalG
 		{ FSessionPropertyKeyPair::StaticStruct, Z_Construct_UScriptStruct_FSessionPropertyKeyPair_Statics::NewStructOps, TEXT("SessionPropertyKeyPair"),&Z_Registration_Info_UScriptStruct_FSessionPropertyKeyPair, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FSessionPropertyKeyPair), 1348753897U) },
 		{ FSessionsSearchSetting::StaticStruct, Z_Construct_UScriptStruct_FSessionsSearchSetting_Statics::NewStructOps, TEXT("SessionsSearchSetting"),&Z_Registration_Info_UScriptStruct_FSessionsSearchSetting, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FSessionsSearchSetting), 2806234452U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_4065129690{
+}; // Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_4065129690{
 	TEXT("/Script/AdvancedSessions"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics::ScriptStructInfo),
-	Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics::EnumInfo),
+	Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h__Script_AdvancedSessions_Statics::EnumInfo),
 };
 // ********** End Registration *********************************************************************
 

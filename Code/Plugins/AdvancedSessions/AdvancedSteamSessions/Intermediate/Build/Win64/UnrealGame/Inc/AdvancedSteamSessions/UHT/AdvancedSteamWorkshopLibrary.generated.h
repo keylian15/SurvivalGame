@@ -19,7 +19,7 @@ struct FBPSteamWorkshopID;
 
 // ********** Begin ScriptStruct FBPSteamWorkshopID ************************************************
 struct Z_Construct_UScriptStruct_FBPSteamWorkshopID_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_63_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_63_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPSteamWorkshopID_Statics; \
 	ADVANCEDSTEAMSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -29,7 +29,7 @@ struct FBPSteamWorkshopID;
 
 // ********** Begin ScriptStruct FBPSteamWorkshopItemDetails ***************************************
 struct Z_Construct_UScriptStruct_FBPSteamWorkshopItemDetails_Statics;
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_208_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_208_GENERATED_BODY \
 	friend struct ::Z_Construct_UScriptStruct_FBPSteamWorkshopItemDetails_Statics; \
 	ADVANCEDSTEAMSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -38,7 +38,7 @@ struct FBPSteamWorkshopItemDetails;
 // ********** End ScriptStruct FBPSteamWorkshopItemDetails *****************************************
 
 // ********** Begin Class UAdvancedSteamWorkshopLibrary ********************************************
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetNumSubscribedWorkshopItems); \
 	DECLARE_FUNCTION(execGetSubscribedWorkshopItems);
 
@@ -46,7 +46,7 @@ struct FBPSteamWorkshopItemDetails;
 struct Z_Construct_UClass_UAdvancedSteamWorkshopLibrary_Statics;
 ADVANCEDSTEAMSESSIONS_API UClass* Z_Construct_UClass_UAdvancedSteamWorkshopLibrary_NoRegister();
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_INCLASS_NO_PURE_DECLS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAdvancedSteamWorkshopLibrary(); \
 	friend struct ::Z_Construct_UClass_UAdvancedSteamWorkshopLibrary_Statics; \
@@ -57,7 +57,7 @@ public: \
 	DECLARE_SERIALIZER(UAdvancedSteamWorkshopLibrary)
 
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_ENHANCED_CONSTRUCTORS \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAdvancedSteamWorkshopLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -69,13 +69,13 @@ public: \
 	NO_API virtual ~UAdvancedSteamWorkshopLibrary();
 
 
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_336_PROLOG
-#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_GENERATED_BODY \
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_336_PROLOG
+#define FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_INCLASS_NO_PURE_DECLS \
-	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_ENHANCED_CONSTRUCTORS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_INCLASS_NO_PURE_DECLS \
+	FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h_339_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -85,7 +85,7 @@ class UAdvancedSteamWorkshopLibrary;
 // ********** End Class UAdvancedSteamWorkshopLibrary **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h
+#define CURRENT_FILE_ID FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamWorkshopLibrary_h
 
 // ********** Begin Enum FBPSteamResult ************************************************************
 #define FOREACH_ENUM_FBPSTEAMRESULT(op) \

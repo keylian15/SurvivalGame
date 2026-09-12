@@ -213,15 +213,15 @@ UEndSessionCallbackProxy::~UEndSessionCallbackProxy() {}
 // ********** End Class UEndSessionCallbackProxy ***************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_Statics
+struct Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UEndSessionCallbackProxy, UEndSessionCallbackProxy::StaticClass, TEXT("UEndSessionCallbackProxy"), &Z_Registration_Info_UClass_UEndSessionCallbackProxy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UEndSessionCallbackProxy), 2040216172U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_2854662546{
+}; // Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_2854662546{
 	TEXT("/Script/AdvancedSessions"),
-	Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_keyli_Documents_Unreal_Projects_SurvivalGame_Code_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_EndSessionCallbackProxy_h__Script_AdvancedSessions_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };
